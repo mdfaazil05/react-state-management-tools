@@ -12,7 +12,7 @@ import { RecoilRoot } from "recoil";
         <Provider store={store}>
                 <ContextProvider>
                     <div style={{ textAlign: "center", padding: "20px" }}>
-                        <h1>🚀 Welcome to the react-state-management-tools with Redux + Context + API App!</h1>
+                        <h1>🚀 Welcome to the react-state-management-tools!</h1>
                         <Home />
                     </div>
                 </ContextProvider>
